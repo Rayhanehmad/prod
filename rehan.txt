@@ -7,3 +7,4 @@ this insertion from dev branci
 2nd time insertion
 
 change for rebase command
+added new text by staging staging
