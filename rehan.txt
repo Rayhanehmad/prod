@@ -1,5 +1,6 @@
 this is new repo for new remote repo.
 
+<<<<<<< HEAD
 this insertion from dev branci
 
 2nd time insertioni
@@ -8,3 +9,6 @@ this insertion from dev branci
 
 change for rebase command
 added new text by staging staging
+=======
+added new text by staging
+>>>>>>> staging
